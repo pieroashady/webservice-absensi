@@ -8,6 +8,7 @@ public class UjianWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UjianWebApplication.class, args);
+		System.out.println("hey");
 
 	}
 
